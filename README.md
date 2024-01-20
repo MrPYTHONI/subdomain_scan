@@ -5,10 +5,10 @@ This is a tool developed in Python to search for the very popular Alo subdomain 
 pkg install git python
 https://github.com/MrPYTHONI/subdomain_scan
 cd subdomain_scan
-python3 MrPYTHON.py
+python3 MrPYTHON.py <domain> <1>
 
 # Connect with Us:
-Join our Telegram channel @PYT_HON3 for updates, discussions, and support related to checkfpi.py. Stay informed about the latest features, bug fixes, and connect with the community.Feel free to customize the message or provide any additional information
+Join our Telegram channel @PYT_HON3 for updates, discussions, and support related to subdomain_scan. Stay informed about the latest features, bug fixes, and connect with the community.Feel free to customize the message or provide any additional information
 
 # Developer:
 ♟Telegram♟ 
