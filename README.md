@@ -8,8 +8,7 @@ cd subdomain_scan
 python3 MrPYTHON.py
 
 # Connect with Us:
-Join our Telegram channel https://t.me/PYT_HON3 
-for updates, discussions, and support related to checkfpi.py. Stay informed about the latest features, bug fixes, and connect with the community.Feel free to customize the message or provide any additional information
+Join our Telegram channel @PYT_HON3 for updates, discussions, and support related to checkfpi.py. Stay informed about the latest features, bug fixes, and connect with the community.Feel free to customize the message or provide any additional information
 
 # Developer:
 ♟Telegram♟ 
