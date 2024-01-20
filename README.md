@@ -3,7 +3,8 @@ This is a tool developed in Python to search for the very popular Alo subdomain 
 
 # Usage:
 pkg install git python
-https://github.com/MrPYTHONI/subdomain_scan
+git clone https://github.com/MrPYTHONI/subdomain_scan
+
 cd subdomain_scan
 python3 MrPYTHON.py <domain> <1>
 
