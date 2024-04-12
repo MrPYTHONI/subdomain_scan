@@ -11,7 +11,9 @@ $ git clone https://github.com/MrPYTHONI/subdomain_scan
 $ cd subdomain_scan
 
 
-$python3 MrPYTHON.py <domain> <1>
+$python3 MrPYTHON.py <domain> <3>
+
+cat fpi.txt 💥
 
 # Connect with Us:
 Join our Telegram channel @PYT_HON3 for updates, discussions, and support related to subdomain_scan. Stay informed about the latest features, bug fixes, and connect with the community.Feel free to customize the message or provide any additional information
